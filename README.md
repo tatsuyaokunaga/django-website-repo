@@ -1,3 +1,3 @@
 # django-website-repo
 
-web app project repogitory
+web app project repository
